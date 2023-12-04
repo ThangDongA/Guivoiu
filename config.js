@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Vợ yêu à :<',
+    introTitle: 'Vợ yêu à :<<',
     introDesc: `C biết là chồng sai rồi khi để em khó chịu về chuyện sáng nay như vậy
     Vợ đang bị áp lực học nữa đáng lẽ ra anh phải cẩn thận hơn bình thường `,
     btnIntro: 'Tiếp nè',
